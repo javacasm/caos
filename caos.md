@@ -96,18 +96,16 @@ comportamiento atmosférico. Nuestro pronóstico fallaría.
 
 
 Los fluidos son otro claro ejemplo, su comportamiento caótico se debe al
-término no-lineal (y.by de la ecuación de Navier-Stokes:
-donde la presión, v es
-la viscosidad y p la densidad.
-p es Pero no sólo se ha encontrado comportamiento caótico en sistemas tan
-físicos como los citados. En campos tan lejanos de la fisica como la economa
-(precios de productos) incluso el ritmo cardíaco se han encontrado
-algunos o en pautas de movimiento caótico.
-Los físicos ahora luchan con el caos, con sus movimientos erráticos,
-aparentemente aleatorios, buscando un orden dentro de ellos, intentando
-dominarlos.
-Pero la física funciona. Nuestra vida está llena de un tecnología que nuestra
-fisica ha desarrollado. Ahora los fisicos buscan como poder utilizar el caos,
-entendiéndolo, llegar a usarlo en nuestro
-mundo de todos los días
-para 
+término no-lineal 
+
+ de la ecuación de Navier-Stokes:
+
+
+donde p es la presión, v es la viscosidad y p la densidad.
+
+
+Pero no sólo se ha encontrado comportamiento caótico en sistemas tan físicos como los citados. En campos tan lejanos de la fisica como la economa (precios de productos) incluso el ritmo cardíaco se han encontrado algunos o en pautas de movimiento caótico.
+
+Los físicos ahora luchan con el caos, con sus movimientos erráticos, aparentemente aleatorios, buscando un orden dentro de ellos, intentando dominarlos.
+
+Pero la física funciona. Nuestra vida está llena de un tecnología que nuestra fisica ha desarrollado. Ahora los fisicos buscan como poder utilizar el caos, entendiéndolo, para llegar a usarlo en nuestro mundo de todos los días  
