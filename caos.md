@@ -42,12 +42,7 @@ todo cambia. Tenemos que recurir al cálculo de probabilidades. Los sistemas de
 pocos grados parecen deterministas y los de muchos probabilistas. Es como si la
 complejidad se debiera sólo a la asociación de muchas cosas simples.
 
-Poincaré fue el primero en darse cuenta de que un
-mismo sistema poda
-presentar dos movimiento bien diferenciados para cambios arbitrariamente
-tipos de pequeños de parámetro su hamiltoniano. Incluso podía presentar movimiento
-un en regular y caótico distinta condiciones iniciales. El mismo demostró que un
-para sistema tan simple como el de los tres cuerpos ofreca comportamiento
+Poincaré fue el primero en darse cuenta de que un mismo sistema podía presentar dos movimiento bien diferenciados para cambios arbitrariamente tipos de pequeños de parámetro su hamiltoniano. Incluso podía presentar movimiento un en regular y caótico distinta condiciones iniciales. El mismo demostró que un para sistema tan simple como el de los tres cuerpos ofreca comportamiento
 impredecible (físicamente decimos que no es integrable).
 La relatividad de Einstein acabó con el tiempo absoluto de Newton. La
 mecánica cuántica arruinó el sueño de Laplace de medir el universo en un
@@ -56,18 +51,12 @@ Con la llegada en este siglo de los ordenadores, parecía que todo iba a ser
 calculable. Quizás no conociéramos las condiciones iniciales exactas, pero sí las
 conocíamos aproximadamente. Nuestros resultados no serían exactos, pero sí
 bastante aproximados.
-En 1960 un fisico llamado Lorenz estaba trabajando sobre predicción
-metereológica. Hizo un modelo de tiempo atmosférico con doce ecuaciones
-diferenciales no lineales introduciéndolo en su ordenador. Un día le dio los valores
-que había obtenido el da anterior, esperando así poder continuar con su tarea. Al
-principio obtenía valores similares a los ya obtenidos, pero después el
-comportamiento del sistema comenzó a separarse del esperado llegando a
-evolucionar de modo totalmente distinto a como lo había hecho el día de antes.
-Lorenz intuyó que el problema estaba en que los sistemas no-lineales tienen fuerte
-dependencia con las condiciones iniciales
-Su ordenador usaba para los cilculos 2 decimales más de los que daba como resultado,
-para que así los números representados fueran todos correctos. Las calculadoras hacen lo
-mismo.
+
+En 1960 un fisico llamado Lorenz estaba trabajando sobre predicción metereológica. Hizo un modelo de tiempo atmosférico con doce ecuaciones diferenciales no lineales introduciéndolo en su ordenador. Un día le dio los valores que había obtenido el da anterior, esperando así poder continuar con su tarea. Al principio obtenía valores similares a los ya obtenidos, pero después el comportamiento del sistema comenzó a separarse del esperado llegando a
+evolucionar de modo totalmente distinto a como lo había hecho el día de antes. 
+
+Lorenz intuyó que el problema estaba en que los sistemas no-lineales tienen fuerte dependencia con las condiciones iniciales
+Su ordenador usaba para los cilculos 2 decimales más de los que daba como resultado, para que así los números representados fueran todos correctos. Las calculadoras hacen lo mismo.
 
 Estamos acostumbrados a trabajar con sistemas lineales. La propagación
 s errores en ellos es lineal. Pero la mayoría de los sistemas reales son no-
@@ -83,20 +72,11 @@ inocente como un
 péndulo es capaz de presentar un comportamiento caótico si se
 le somete a una fuerza armónica. El término sino es el responsable de todo con
 su comportamiento no lineal.
-Son muchos los sistemas en los que se presenta una fuerte dependencia a
-las condiciones iniciales. Un ejemplo claro es el tiempo atmosférico. De ahí viene
-su impredecibilidad. Cualquier pequeña perturbación que escape a nuestra medida
-es capaz de adueñarse del comportamiento global del sistema. Los metereólogos
-lo llaman el efecto mariposa. Supongamos que conocemos las ecuaciones que
-rigen el tiempo (por supuesto serian no-lineales) y que somos capaces de conocer
-en un momento dado el estado exacto de nuestro sistema. El batir de una mariposa
-en Australia daría lugar a una perturbación que iría creciendo. En unos meses la
-perturbación habría llegado a cualquier parte del mundo y se adueñaría del
+Son muchos los sistemas en los que se presenta una fuerte dependencia a las condiciones iniciales. Un ejemplo claro es el tiempo atmosférico. De ahí viene su impredecibilidad. Cualquier pequeña perturbación que escape a nuestra medida es capaz de adueñarse del comportamiento global del sistema. Los metereólogos lo llaman el efecto mariposa. Supongamos que conocemos las ecuaciones que rigen el tiempo (por supuesto serian no-lineales) y que somos capaces de conocer en un momento dado el estado exacto de nuestro sistema. El batir de una mariposa en Australia daría lugar a una perturbación que iría creciendo. En unos meses la perturbación habría llegado a cualquier parte del mundo y se adueñaría del
 comportamiento atmosférico. Nuestro pronóstico fallaría.
 
 
-Los fluidos son otro claro ejemplo, su comportamiento caótico se debe al
-término no-lineal 
+Los fluidos son otro claro ejemplo, su comportamiento caótico se debe al término no-lineal 
 
  de la ecuación de Navier-Stokes:
 
