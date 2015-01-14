@@ -7,8 +7,7 @@ Nos sentimos tentados a simplificar el esquema diciendo que el movimiento regula
 
 La inestabilidad del caos es local. La encontramos en cada punto. De ahí la divergencia exponencial de las trayectorias. En cada punto el sistema puede moverse en direcciones opuestas. Diferencias infinitesimales le harán evolucionar de modos totalmente distintos.
 
-Si las ecuaciones del sistema son integrables, nuestro sistema tendrá una solución explícita. Dado un estado inicial, lo metemos en la fórmulita y obtenemos cual será el estado final para un tiempo t. En los sistemas no integrables no tenemos solución explícita. Dado un
-estado inicial tenemos que pasar por todos los intermedios para llegar hasta el estado final en t. Aquí no tenemos el atajo de las fórmulas. Al ser las ecuaciones no lineales en cada paso de nuestra integración l error se irá incrementando hasta llegar a tapar nuestro resultado.
+Si las ecuaciones del sistema son integrables, nuestro sistema tendrá una solución explícita. Dado un estado inicial, lo metemos en la fórmulita y obtenemos cual será el estado final para un tiempo t. En los sistemas no integrables no tenemos solución explícita. Dado un estado inicial tenemos que pasar por todos los intermedios para llegar hasta el estado final en t. Aquí no tenemos el atajo de las fórmulas. Al ser las ecuaciones no lineales en cada paso de nuestra integración l error se irá incrementando hasta llegar a tapar nuestro resultado.
 
 Los sistemas caóticos también son deterministas, pues cstán regidos por ecuaciones del movimiento como lo estaban los sistemas con movimientos regulares. Dado un estado inicial tenemos determinado el final. El tener una precisión determinada en la medida y en el cálculo van a hacer que no sepamos exactamente cual es el estado inicial ni por supuesto cuales son los intermedios durante nuestro cálculo. Nuestra finitud es la responsable de la impredecibilidad de los sistemas caóticos.
 
