@@ -77,13 +77,12 @@ comportadas
 con fo-f(1) y con un solo máximo en el intervalo (0,1). Este fue
 el descubrimiento de la universalidad de las duplicaciones de perfodo en las
 transiciones al caos. Posteriormente hablaremos más extensamente de este tema.
-El intervalo 6-4) contiene infinitas pequeñas ventanas en la región de
-movimiento caótico en las que para ciertos valores de b aparecen ciclos estables
-de periodo m. Por ejemplo desde b-3.8284 hasta b- 3.8415 encontramos un ciclo
-Diagrama de bifurcación.
-de periodo 3 que permanece estable. Para el último valor de b encontramos
-duplicación de período, pasando a un ciclo de periodo 6, luego 12, llegando otra
-vez a comportamiento caótico.
+
+El intervalo 6-4) contiene infinitas pequeñas ventanas en la región de movimiento caótico en las que para ciertos valores de b aparecen ciclos estables de periodo m. Por ejemplo desde b-3.8284 hasta b- 3.8415 encontramos un ciclo de periodo 3 que permanece estable. Para el último valor de b encontramos duplicación de período, pasando a un ciclo de periodo 6, luego 12, llegando otra vez a comportamiento caótico.
+
+![Diagrama de bifurcación](diagrama_bifurcacion.jpg)
+Diagrama de bifurcación
+
 Estas zonas de comportamiento regular
 en medio de la región caótica son
 realmente sorprendentes. Es algo parecido a que en un momento dado mientras
