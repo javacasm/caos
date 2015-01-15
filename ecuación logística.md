@@ -80,3 +80,13 @@ transiciones al caos. Posteriormente hablaremos más extensamente de este tema.
 El intervalo 6-4) contiene infinitas pequeñas ventanas en la región de
 movimiento caótico en las que para ciertos valores de b aparecen ciclos estables
 de periodo m. Por ejemplo desde b-3.8284 hasta b- 3.8415 encontramos un ciclo
+Diagrama de bifurcación.
+de periodo 3 que permanece estable. Para el último valor de b encontramos
+duplicación de período, pasando a un ciclo de periodo 6, luego 12, llegando otra
+vez a comportamiento caótico.
+Estas zonas de comportamiento regular
+en medio de la región caótica son
+realmente sorprendentes. Es algo parecido a que en un momento dado mientras
+estamos moviendo el café para disolver el azúcar, encontráramos que la leche está
+por un lado, el café por otro y el azúcar en el fondo, para luego si seguimos
+moviendo volver a encontrar la mezcla normal.
